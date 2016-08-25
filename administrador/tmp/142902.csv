@@ -1,0 +1,13 @@
+Usuario;Nombre;Email;idRol;idTienda;Cedula;Telefono;PDV;idEstado
+cargaMasivaPrueba;carga;carga@carga.com;1;1;3333433;22198597;14;4
+cargaMasiva;carga;gollo@unicomer.com;1;1;115280123;22195865;14;4
+503610787;JUAN CARLOS URBINA ZUQIGA;admin11@unicomer.com;3;1;503610787;88166956;14;1
+112160301;KAROLYN GONZALEZ SILVA;kgonzalez@unicomer.com;3;1;112160301;83471352;14;1
+Administrador ;Administrador Central;admingollo;1;1;333333;22198597;14;1
+204430156;LUIS FERNANDO MIRANDA SALAZAR;lmiranda@unicomer.com;3;1;204430156;88708888;14;1
+303030737;BERNARDO FERNANDEZ VARELA;bfernandez@unicomer.com;3;1;303030737;83362736;14;1
+206180082;MAYCOL OVIEDO MADRIGAL;maycol_oviedo@unicomer.com;1;1;206180082;88713977;14;1
+333333;Administrador Central;admingollo;1;1;Administrador;22198597;14;4
+999999999;Prueba1;maycol_oviedo@unicomer.com;3;1;999999999;88888888;14;4
+204820508;Bernal Alfonso Aguilar Sancho ;admon_044@unicomer.com;3;1;204820508;61043000;14;2
+110650942;JOHANNA RODRIGUEZ ALFARO;johanna_rodriguez@unicomer.com;1;1;110650942;88244349;14;1

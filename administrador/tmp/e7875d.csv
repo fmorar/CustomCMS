@@ -1,0 +1,21 @@
+Usuario,Nombre,Email,idRol,idTienda,Cedula,Telefono,PDV,idEstado
+112160301,KAROLYN GONZALEZ SILVA,karollyn_gonzalez@unicomer.com,3,1,112160301,83471352,14,1
+503610787,JUAN CARLOS URBINA ZUQIGA,juan_urbina@unicomer.com,3,1,503610787,88166956,14,1
+204430156,LUIS FERNANDO MIRANDA SALAZAR,luis_miranda@unicomer.com,3,1,204430156,88708888,14,1
+303030737,BERNARDO FERNANDEZ VARELA,bernardo_fernandez@unicomer.com,3,1,303030737,83362736,14,1
+206180082,MAYCOL OVIEDO MADRIGAL,maycol_oviedo@unicomer.com,1,1,206180082,88713977,14,1
+Administrador,Administrador Central,pdvideal_cr@unicomer.com,1,1,999999999,22198597,14,1
+110650942,JOHANNA RODRIGUEZ ALFARO,johanna_rodriguez@unicomer.com,3,1,110650942,88244349,14,1
+206090990,Shaury Moreira Fallas ,shaury_moreira@unicomer.com,3,1,206090990,60683637,14,1
+111410187,Gerson Araya Alfaro ,gerson_araya@unicomer.com,3,2,111410187,70746321,14,1
+110450125,Jonathan Madrigal Venegas , gollo_viajes@unicomer.com,3,1,110450125,60778295,14,1
+108570615,Yalile Masis Valverde ,yalile_masis@unicomer.com,3,1,108570615,61180251,14,1
+206730028,Silvia Castillo Ovares ,silvia_castillo@unicomer.com,3,1,206730028,71149038,14,1
+PruebaG,Prueba prueba Prueba ,Prueba@unicomer.com,3,1,888888888,999999999,14,1
+PruebaC,Prueba prueba Prueba ,Prueba@unicomer.com,3,2,777777777,999999999,14,1
+50373395,Eliseo Araya Loria , eliseo_araya@unicomer.com,3,1,50373395,60473564,14,1
+206490480,Alexander Sanchez Araya ,alexander_sanchez@unicomer.com,3,1,206490480,83230058,14,1
+112450227,Kenneth Cascante Diaz ,kenneth_cascante@unicomer.com,3,1,112450227,85578780,14,1
+503320736,Edin Marin Rodriguez ,edin_rodriguez@unicomer.com,3,1,503320736,83462808,14,1
+11240323,Pablo Palma Sanchez ,pablo_palma@unicomer.com,3,1,11240323,85970622,14,1
+503350081,Donal Herrera Ramirez ,donal_herrera@unicomer.com,3,1,503350081,61001390,14,1

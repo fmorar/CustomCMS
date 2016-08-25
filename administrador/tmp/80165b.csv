@@ -1,0 +1,24 @@
+Usuario	Nombre	Email	idRol	idTienda	Cedula	Telefono	PDV	idEstado
+ECordova	Eduardo Córdova	ECordova@gollo.cr.com	3	1	115280123	12345678	Gollo San Jose	1
+ASalas	Alexander Villalobos Salas	ASalas@gollo.cr.com	3	1		89652732		1
+GElizondo	Gilberth Elizondo Zúñiga	GElizondo@gollo.cr.com	3	1		60478019		1
+FCampos	Francisco Campos Sánchez	FCampos@gollo.cr.com	3	1		83345414		1
+MBarquero	Miguel Barquero Álvarez	MBarquero@gollo.cr.com	3	1	1,12253E+14	87473784	14	1
+JVillalobos	Jonathan Arroyo Villalobos	JVillalobos@gollo.cr.com	3	1		87473784		1
+CRetana	Cristian Brenes Retana	CRetana@gollo.cr.com	3	1		85425479		1
+MGonzalez	Marco Vinicio Cubero Gonzalez	MGonzalez@gollo.cr.com	1	1		86586533		1
+MMolina	Mainor Francisco Porras Molina	MMolina@gollo.cr.com	3	1		83722916		1
+JAlfaro	Jorge Rojas Alfaro	JAlfaro@gollo.cr.com	3	1		60758423		1
+IBrenes	Ismael Vargas Brenes	IBrenes@gollo.cr.com	3	1		86522149		1
+GRodriguez	Guido Josué Vargas Rodriguez	GRodriguez@gollo.cr.com	3	1		86399513		1
+DFallas	Dennis Giovanni Villalobos Fallas	DFallas@gollo.cr.com	3	1		62519204		1
+fdgvsz	Línea Blanca	fabianmorar@hotmail.com	1	1		548721752		1
+KEsquivel	Keneth Esquivel	KEsquivel@gollo.cr.com	1	1		12345678		1
+SNunez	Shirley Nuñez	SNunez	3	1		12345678		1
+Administrador 	Administrador Central	admingollo	1	1		12345678		1
+cargaMasiva	carga	gollo@unicomer.com	1	1		22195865	 gollo  san pedro	1
+112160301	KAROLYN GONZALEZ SILVA	kgonzalez@unicomer.com	1	1		83471352	ALM.EL GALLO	1
+503610787	JUAN CARLOS URBINA ZUQIGA	admin11@unicomer.com	1	1		88166956	ALM.EL GALLO	1
+204430156	LUIS FERNANDO MIRANDA SALAZAR	lmiranda@unicomer.com	1	1		88708888	ALM.EL GALLO	1
+303030737	BERNARDO FERNANDEZ VARELA	bfernandez@unicomer.com	1	1		83362736	ALM.EL GALLO	1
+testigodejehova	testigodejehova	testigo@lawea.com	1	1	333333	123456789		1
